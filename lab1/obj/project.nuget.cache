@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0315H0K0QZot5nBHrPIHfRy7Mu6ffYVXOWsTizaPRtGg0YDYU6tE2Y7rM68uUsjRsfKTAnVCI1LWa0zII5eH0w==",
+  "success": true,
+  "projectFilePath": "/home/lyumos/Документы/mlab1/mlab1.csproj",
+  "expectedPackageFiles": [
+    "/home/lyumos/.nuget/packages/csvhelper/15.0.4/csvhelper.15.0.4.nupkg.sha512",
+    "/home/lyumos/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
